@@ -1,2 +1,2 @@
 # LNK-2-Hardlink
-Replace .LNK (softlinkfiles with Hardlinks on NTFS
+Replace .LNK (softlink) files with Hardlinks on NTFS

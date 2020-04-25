@@ -1,6 +1,9 @@
 /.vs/
 *.user
 /obj/
-/bin/
-!/bin/Release/*.exe
+#!/bin/Release/*.exe
+#!/bin/Release/*.dll
+/bin/Release/*.pdb
+/bin/Release/*.xml
+/bin/Debug/
 
